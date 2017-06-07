@@ -11,13 +11,14 @@ body{
 #contenedor.flex-container{
 	background-color: white;
 	width: 100%;
-	height: 190px;
+	height: 60px;
 	justify-content: center;
 	font-family: 'Open Sans', sans-bold;
+	background-color: #fcaefc;
 }
 .container{
 	background-color: #fcaefc;
-	width: 80%;
+	width: 100%;
 	height: 100px;
 }
 .menu{
